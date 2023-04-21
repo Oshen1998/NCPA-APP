@@ -29,4 +29,4 @@ Visit the [Nx Documentation](https://nx.dev) to learn more.
 
 ### Further help
 
-Visit the [Folder Structure]([https://nx.dev](https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project)) to learn more.
+Visit the [Folder Structure](https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project) to learn more.
