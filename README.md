@@ -27,6 +27,6 @@ Visit the [Nx Documentation](https://nx.dev) to learn more.
 - Shared Module - All Reusable Direactives, Pipes
 - Core Module -  Interfaces, Models & All Services 
 
-## Further help
+### Further help
 
 Visit the [Folder Structure]([https://nx.dev](https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project)) to learn more.
